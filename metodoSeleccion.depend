@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647541198 source:d:\c\metodoseleccion\funciones.c
+	"header.h"
+
+1647541216 d:\c\metodoseleccion\header.h
+	<stdio.h>
+	<stdlib.h>
+
